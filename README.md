@@ -1,4 +1,6 @@
 Dog vs Cat Classifier 🐾
+
+
 A Binary Image Classification project that distinguishes dogs from cats using transfer learning with MobileNetV2. The model is fine-tuned for higher performance on a custom dataset.
 
 🔧 Tech Stack
